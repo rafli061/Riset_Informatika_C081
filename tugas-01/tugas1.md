@@ -54,5 +54,7 @@
 ## Referensi
 
 [1] Subagia, R., Alit, R., & Akbar, F. A. (2020). Pengujian White Box pada Sistem Informasi Monitoring Skripsi Program Studi Informatika. Jurnal Informatika Dan Sistem Informasi (JIFoSI), 01(2), 539–547
+
 [2] Jampani, R., Talasu, N., & Manjula, R. (2016). 4 IV April 2016. April
+
 [3] Yahya, Mahpuz. Penggunaan Algoritma K-Means Untuk Menganalisis Pelanggan Potensial Pada Dealer SPS Motor Honda Lombok Timur Nusa Tenggara Barat. Jurnal Informatika dan Teknologi (Infotek), 02(2), 109-118
