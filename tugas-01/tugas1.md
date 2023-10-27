@@ -35,6 +35,7 @@
   * **Blackbox Testing**
   Pengujian black box testing disebut sebagai pengujian perilaku. Dimana struktur interior, logika perangkat lunak yang diuji tidak diketahui oleh penguji. Penguji didasarkan kepada spesifikasi kebutuhan dan tidak perlu dilakukannya analisis kode. Pengujian black box testing pengujian ini dilakukan dari sudut pandang pengguna akhir.[2]
 
+<!---
 ### Topik 2 : Machine Learning ("Analisis Sentimen Terhadap Isu Perceraian dalam Media Sosial: Studi Kasus pada Platform Twitter")
 
 * **Identifikasi Masalah:**
@@ -48,7 +49,7 @@
     Analisis merupakan sebuah kegiatan untuk  meneliti suatu objek tertentu secara sistematis, guna mendapatkan informasi mengenai objek tersebut, sebagai contoh dalam dunia bisnis pihak manajemen dalam sebuah perusahaan melakukan analisis untuk mendapatkan informasi mengenai target pasar, produk yang akan dibuat, strategi pemasaran dan lain sebagainya [3]
   * **Data Mining**
     Data mining, sering juga disebut knowledge discovery in database (KDD), adalah kegiatan yang  meliputi pengumpulan, pemakain data historis  untuk menentukan pola keteraturan, pola hubungan dalam set data berukuran besar [3]
-
+--->
 ----
 
 ## Referensi
