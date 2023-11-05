@@ -1,6 +1,7 @@
 # TUGAS 1 TOPIK PENELITIAN
 
 **Nama:** Muhammad Rafli Aulia Rojani Lutfi
+
 **NPM:**  20081010061  
 
 [[DAFTAR ISI]](../README.md)
@@ -19,7 +20,7 @@
 
 ## Pembahasan
 
-### Topik 1 : Pengujian Aplikasi Berbasis Website ("Pengujian Aplikasi Berbasis Website Menggunakan Metode Black Box Testing")
+<!-- ### Topik 1 : Pengujian Aplikasi Berbasis Website ("Pengujian Aplikasi Berbasis Website Menggunakan Metode Black Box Testing")
 
 * **Masalah:**:
   * Aplikasi saat ini menghadapi banyak sekali kerentanan terhadap keamanan yang dimiliki seperti SQL injection, penerapan autentikasi dan otorisasi yang lemah, kegagalan dalam menerapkan kontrol akses, dll.
@@ -33,23 +34,21 @@
   * **Pengujian Perangkat Lunak**
   Pengujian perangkat lunak merupakan bagian dari Software Development Life Cycle(SDLC) yang digunakan untuk mengidentifikasi kesalahan – kesalahan baik secara fungsional maupun non - fungsional [1]
   * **Blackbox Testing**
-  Pengujian black box testing disebut sebagai pengujian perilaku. Dimana struktur interior, logika perangkat lunak yang diuji tidak diketahui oleh penguji. Penguji didasarkan kepada spesifikasi kebutuhan dan tidak perlu dilakukannya analisis kode. Pengujian black box testing pengujian ini dilakukan dari sudut pandang pengguna akhir.[2]
+  Pengujian black box testing disebut sebagai pengujian perilaku. Dimana struktur interior, logika perangkat lunak yang diuji tidak diketahui oleh penguji. Penguji didasarkan kepada spesifikasi kebutuhan dan tidak perlu dilakukannya analisis kode. Pengujian black box testing pengujian ini dilakukan dari sudut pandang pengguna akhir.[2] -->
 
-<!---
-### Topik 2 : Machine Learning ("Analisis Sentimen Terhadap Isu Perceraian dalam Media Sosial: Studi Kasus pada Platform Twitter")
+### Topik 1 : Machine Learning ("Analisis Sentimen Terhadap Isu Perceraian dalam Media Sosial Studi Kasus pada Platform Twitter")
 
 * **Identifikasi Masalah:**
   * beragamnya tanggapan mengenai isu perceraian yang berisi komentar dengan konteks negatif, positif, maupun netral
 
 * **Research Questions:**
-  * Bagaimana Cara membuat sistem otomasi yang dapat Menentukan sebuah komentar/tweet yang panjang termasuk ke dalam konteks positif atau negatif pada aplikasi Twitter?
+  * Bagaimana Cara membuat sistem yang dapat Menentukan sebuah komentar/tweet yang panjang termasuk ke dalam konteks positif atau negatif pada aplikasi Twitter?
   
 * **Teori Pendukung:**
   * **Analisis**
     Analisis merupakan sebuah kegiatan untuk  meneliti suatu objek tertentu secara sistematis, guna mendapatkan informasi mengenai objek tersebut, sebagai contoh dalam dunia bisnis pihak manajemen dalam sebuah perusahaan melakukan analisis untuk mendapatkan informasi mengenai target pasar, produk yang akan dibuat, strategi pemasaran dan lain sebagainya [3]
   * **Data Mining**
     Data mining, sering juga disebut knowledge discovery in database (KDD), adalah kegiatan yang  meliputi pengumpulan, pemakain data historis  untuk menentukan pola keteraturan, pola hubungan dalam set data berukuran besar [3]
---->
 ----
 
 ## Referensi
