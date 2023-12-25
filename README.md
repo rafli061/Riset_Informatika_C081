@@ -7,4 +7,5 @@
 ## Daftar Isi
 
 - [Tugas 01 - TOPIK PENELITIAN](tugas-01/tugas1.md)
-- [Tugas 02 - METODOLOGI PENELITIAN](tugas-02/tugas2.md) (BARU)
+- [Tugas 02 - METODOLOGI PENELITIAN](tugas-02/tugas2.md)
+- [RISET LENGKAP](Riset%20Lengkap/README.md) (BARUUUU)
